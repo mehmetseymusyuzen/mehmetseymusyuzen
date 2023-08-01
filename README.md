@@ -1,5 +1,4 @@
 <h1 align="center">Hi 👋, This is me Mehmet</h1>
-<h3 align="center">A passionate backend developer from Turkey</h3>
 <img align="right" alt="coding" witdh="400" src="https://thumbs.gfycat.com/AngelicConcreteHypsilophodon-size_restricted.gif"
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mehmetseymusyuzen&label=Profile%20views&color=0e75b6&style=flat" alt="mehmetseymusyuzen" /> </p>
