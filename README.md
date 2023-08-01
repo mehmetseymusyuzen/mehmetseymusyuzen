@@ -6,13 +6,13 @@
 
 - 🔭 I’m currently working on [Java](https://github.com/mehmetseymusyuzen/javaProjects/)
 
-- 🌱 I’m currently learning **Spring, Spring Boot**
+- 🌱 I’m currently learning **Spring**
 
-- 👯 I’m looking to collaborate on **Java, C++, Javascript, Python**
+- 👯 I’m looking to collaborate on **Java, C++**
 
 - 👨‍💻 All of my projects are available at [https://github.com/mehmetseymusyuzen/javaProjects/](https://github.com/mehmetseymusyuzen/javaProjects/)
 
-- 💬 Ask me about **Java, Python, C++, HTML**
+- 💬 Ask me about **Java**
 
 - 📫 How to reach me **mehmtt.21x@gmail.com**
 
